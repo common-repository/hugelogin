@@ -1,0 +1,33 @@
+.rest-api-logo img{
+	margin: 0px auto;
+}
+.slogan-text{
+	margin: 0px auto;
+}
+.wpa-box{
+	padding: 6px 9px;
+	margin: 0 auto 25px;
+	display: block;
+	width: 100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.wpa-error{
+	background: #ffebe8;
+	padding: 10px;
+	margin-bottom: 0px;
+    border-left: 10px solid #C71C22;
+}
+.wpa-success{
+	background: #e7f7d3;
+	padding: 10px;
+	margin-bottom: 0px;
+    border-left: 10px solid #468847;
+}
+.wpa-alert{
+	background: #fffbbc;
+	padding: 10px;
+	margin-bottom: 0px;
+    border-left: 10px solid #DD5600;
+}
